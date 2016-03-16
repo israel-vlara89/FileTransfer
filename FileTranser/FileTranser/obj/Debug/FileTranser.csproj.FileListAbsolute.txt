@@ -1,0 +1,6 @@
+c:\users\core i3 550\documents\visual studio 2015\Projects\FileTranser\FileTranser\bin\Debug\FileTranser.exe.config
+c:\users\core i3 550\documents\visual studio 2015\Projects\FileTranser\FileTranser\bin\Debug\FileTranser.exe
+c:\users\core i3 550\documents\visual studio 2015\Projects\FileTranser\FileTranser\bin\Debug\FileTranser.pdb
+c:\users\core i3 550\documents\visual studio 2015\Projects\FileTranser\FileTranser\obj\Debug\FileTranser.csprojResolveAssemblyReference.cache
+c:\users\core i3 550\documents\visual studio 2015\Projects\FileTranser\FileTranser\obj\Debug\FileTranser.exe
+c:\users\core i3 550\documents\visual studio 2015\Projects\FileTranser\FileTranser\obj\Debug\FileTranser.pdb
